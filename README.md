@@ -32,11 +32,31 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#system-architecture">System Architecture</a></li>
-    <li><a href="#documentation-structure">Documentation Structure</a></li>
-    <li><a href="#api-documentation">API Documentation</a></li>
-    <li><a href="#development-guides">Development Guides</a></li>
-    <li><a href="#deployment-guides">Deployment Guides</a></li>
+    <li>
+      <a href="#diagrams">Diagrams</a>
+      <ul>
+        <li><a href="#use-case-diagram">Use Case Diagram</a></li>
+        <li><a href="#domain-model">Domain Model</a></li>
+        <li><a href="#sequence-diagram">Sequence Diagram</a></li>
+        <li><a href="#uml-class-diagram">UML Class Diagram</a></li>
+        <li><a href="#er-diagram">ER Diagram</a></li>
+        <li><a href="#frontend-structure">Frontend Structure</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#documentation">Documentation</a>
+      <ul>
+        <li><a href="#project-proposal">Project Proposal</a></li>
+        <li><a href="#vision-statement">Vision Statement</a></li>
+        <li><a href="#requirements">Requirements</a></li>
+        <li><a href="#development-plan">Development Plan</a></li>
+        <li><a href="#cost-estimation">Cost Estimation</a></li>
+        <li><a href="#team-process">Team Process</a></li>
+        <li><a href="#api-documentation">API Documentation</a></li>
+        <li><a href="#user-acceptance-testing">User Acceptance Testing</a></li>
+        <li><a href="#project-management-board">Project Management Board</a></li>
+      </ul>
+    </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -48,59 +68,28 @@
 
 This repository serves as the central documentation hub for the B2D Ventures platform. It contains comprehensive documentation, architectural diagrams, API specifications, and development guides for both frontend and backend components.
 
-<!-- SYSTEM ARCHITECTURE -->
-## System Architecture
-
-- [System Overview](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/System-Overview)
-- [Technical Architecture](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Technical-Architecture)
-- [Database Schema](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Database-Schema)
-- [Authentication Flow](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Authentication-Flow)
-
-### Diagrams
-- [System Context Diagram](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/System-Context-Diagram)
-- [Component Diagram](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Component-Diagram)
-- [Entity Relationship Diagram](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Entity-Relationship-Diagram)
-- [Sequence Diagrams](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
+<!-- SYSTEM Diagrams -->
+## Diagrams
+- [Use Case Diagram](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/System-Context-Diagram)
+- [Domain Model](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Component-Diagram)
+- [Sequence Diagram](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
+- [UML Class Diagram](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Entity-Relationship-Diagram)
+- [ER Diagram](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
+- [Frontend Structure](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- API DOCUMENTATION -->
-## API Documentation
-
-### External Links
-- [Postman Documentation](https://documenter.getpostman.com/view/b2d-ventures-api)
-- [API Reference](https://api.b2d-ventures.com/docs)
-- [OpenAPI Specification](https://api.b2d-ventures.com/openapi.json)
-
-### Internal Documentation
-- [API Standards](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/API-Standards)
-- [Authentication Guide](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Authentication-Guide)
-- [Error Handling](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Error-Handling)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- DEVELOPMENT GUIDES -->
-## Development Guides
-
-### Frontend Development
-- [Component Library](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Component-Library)
-- [State Management](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/State-Management)
-- [Styling Guide](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Styling-Guide)
-
-### Backend Development
-- [Model Documentation](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Model-Documentation)
-- [Service Layer](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Service-Layer)
-- [Testing Guide](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Testing-Guide)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- DEPLOYMENT GUIDES -->
-## Deployment Guides
-
-- [Local Development Setup](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Local-Development-Setup)
-- [Docker Deployment](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Docker-Deployment)
-- [Production Deployment](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Production-Deployment)
-- [CI/CD Pipeline](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/CI-CD-Pipeline)
+<!-- DOCUMENTATION -->
+## Documentation
+- [Project Proposal](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
+- [Vision Statement](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
+- [Requirements](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
+- [Development Plan](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
+- [Cost Estimation](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
+- [Team Process](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
+- [API Documentation](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
+- [User Acceptance Testing](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
+- [Project Management Board](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
