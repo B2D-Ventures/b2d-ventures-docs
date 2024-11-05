@@ -70,26 +70,24 @@ This repository serves as the central documentation hub for the B2D Ventures pla
 
 <!-- SYSTEM Diagrams -->
 ## Diagrams
-- [Use Case Diagram](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/System-Context-Diagram)
-- [Domain Model](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Component-Diagram)
+- [Use Case Diagram](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Use-Case-Diagram)
+- [Domain Model](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Domain-Model)
 - [Sequence Diagram](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
-- [UML Class Diagram](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Entity-Relationship-Diagram)
+- [UML Class Diagram](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/UML-Class-Diagram)
 - [ER Diagram](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
-- [Frontend Structure](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
+- [Frontend Architecture Model](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Frontend-Architecture-Model)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- DOCUMENTATION -->
 ## Documentation
-- [Project Proposal](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
-- [Vision Statement](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
-- [Requirements](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
-- [Development Plan](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
-- [Cost Estimation](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
-- [Team Process](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
-- [API Documentation](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
-- [User Acceptance Testing](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
-- [Project Management Board](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Sequence-Diagrams)
+- [Project Proposal](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Project-Proposal)
+- [Vision Statement](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Vision-Statement)
+- [Requirements](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Requirements)
+- [Development Plan](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/Development-Plan)
+- [API Documentation](https://github.com/B2D-Ventures/b2d-ventures-docs/wiki/API-Documentation)
+- [User Acceptance Testing](https://docs.google.com/document/d/12jsE6mOaThmWVJmP8j05VZ3C5uzXyUwipuSFVipiLrA/edit?usp=sharing)
+- [Project Management Board](https://github.com/orgs/B2D-Ventures/projects/2/views/1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
